@@ -1,6 +1,6 @@
 # CC-Bangkit2-2023
 
-Repository ini ditujukan untuk final assignment modul Belajar Pemrograman Dasar Web Dicoding.
+This repository intended for the final assignment of Belajar Pemrograman Dasar Web Dicoding course.
 
-Tertanda,
+Regards,
 Fadya Nabila Fajarpoetri
